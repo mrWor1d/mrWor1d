@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrWor1d
-- 👀 I’m interested in learning and maybe specialze in C/C++ and Python
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in learning and maybe specialze in C/C++, JAVA and Python
+- 🌱 I’m currently learning JAVA && C++
 - 💞️ I’m looking to collaborate on any project where i can be util
 - 📫 How to reach me by email at davyneil53@outlook.com
 
